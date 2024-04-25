@@ -4,14 +4,26 @@ This application aims to provide Cordatus users an out of the box local code ass
 
 Application can be deployed seamlessly with Cordatus AI over a web browser or locally by building an image from the provided Dockerfile.
 
+### Table of Content
+- [1. Deploying with Cordatus AI](#item-one)
+    - [1.1 Create an Account](#item-two)
+    - [1.2 Register Your Device](#item-three)
+    - [1.3 Deploy the Application](#item-four)
+    - [1.4 Access to Application](#item-five)
+- [2. Deploying with Docker Image Locally](#item-six)
+- [BONUS: Build Docker Image Locally](#item-seven)
+
+<a id="item-one"></a>
 ## 1. Deploying with Cordatus AI (Preferred)
 This method allows you to access this application remotely while giving you additional abilities such as Remote SSH, AI Application Deployment, and Device Monitoring/Management.
 
+<a id="item-two"></a>
 ### 1.1 Create an Account
 You can create an account from **[this link](https://app.cordatus.ai/#/register)** for free.
 
 ![Register Page](/assets/register.png)
 
+<a id="item-three"></a>
 ### 1.2 Register Your Device
 Once you login to your account, navigate to the Download page from the left menu. Click on the Download Now button to get the automated installation script for the Cordatus AI.
 
@@ -26,6 +38,7 @@ Once you run the script, please answer the prompts accordingly and confirm the s
 
 After the reboot, please login to your account from Cordatus AI Client on NVIDIA Jetson or x86 device.
 
+<a id="item-four"></a>
 ### 1.3 Deploy the Application
 Navigate to the Applications tab from the left menu and find **Generative AI Applications** card.
 
@@ -45,8 +58,10 @@ Set the remaining options for your remote deployment.
 
 ![Set Options](/assets/set_options.png)
 
+<a id="item-five"></a>
 ### 1.4 Access to Application
 
+<a id="item-six"></a>
 ## 2. Deploying with Docker Image Locally (Optional)
 To deploy the application standalone, run the following command to run the Docker container.
 
@@ -62,6 +77,7 @@ $ docker run -ti \
 
 Navigate to the local IP address and port combination using one of your web browser.
 
+<a id="item-seven"></a>
 ## BONUS: Build Docker Image Locally
 You can also build and run the Docker image locally on your devices
 
