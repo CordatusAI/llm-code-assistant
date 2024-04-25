@@ -47,4 +47,33 @@ Set the remaining options for your remote deployment.
 
 ### 1.4 Access to Application
 
-## 2. Deploying with Dockerfile Locally (Optional)
+## 2. Deploying with Docker Image Locally (Optional)
+To deploy the application standalone, run the following command to run the Docker container.
+
+```
+$ docker run -ti \
+        --gpus=all \
+        --net=host \
+        -v ~/ollama:/root/.ollama \
+        cdcr.dev/cordatus/generative-ai-apps:llm-code-assistant
+```
+
+![Local Access](/assets/local_access.png)
+
+Navigate to the local IP address and port combination using one of your web browser.
+
+## BONUS: Build Docker Image Locally
+You can also build and run the Docker image locally on your devices
+
+```
+$ git clone https://github.com/CordatusAI/llm-code-assistant.git
+$ cd llm-code-assistant/
+$ docker build -f Dockerfile -t cordatus/generative-ai-apps:local-llm-code-assistant .
+```
+```
+$ docker run -ti \
+        --gpus=all \
+        --net=host \
+        -v ~/ollama:/root/.ollama \
+        generative-ai-apps:local-llm-code-assistant
+```
