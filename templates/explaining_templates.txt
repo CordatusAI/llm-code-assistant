@@ -1,0 +1,21 @@
+ I don't know how to code, but I want to understand how this works. Explain the following code to me in a way that a non-technical person can understand. Always use Markdown with nice formatting to make it easier to follow. Organize it by sections with headers. Include references to the code as markdown code blocks in each section. The code:[code snippet]?
+ Can you explain what this [language] function does: [code snippet]?
+ I’m having trouble understanding this [language] class. Can you explain it: [code snippet]?
+ Could you break down this [language] loop and explain what it does: [code snippet]?
+ Could you break down how this [language] function works: [code snippet]?
+ What does this [language] recursive function do: [code snippet]?
+ Help me understand what this [language] code snippet does: [code snippet].
+ Could you explain the logic behind this [language] function: [code snippet]?
+ Can you explain this [language] algorithm implementation: [code snippet]?
+ Help me understand the workings of this [language] data structure implementation: [code snippet].
+ Explain this [language] code that uses lambda functions: [code snippet].
+. Can you help me understand this [language] script: [code snippet]?
+ Explain what this [language] function does: [code snippet].
+ What does this section of the [language] code do: [code snippet]?
+ Can you walk me through the flow of this [language] script: [code snippet]?
+. Please explain what the following block of [language] code does: [code snippet] and how it interacts with [system components].
+ Can you explain the functionality of this [language] algorithm: [code  snippet] and its expected output for given inputs: [input examples]?
+ Break down this [language] class: [code snippet], and explain how its methods accomplish [task].
+ Could you explain how this [language] function: [code snippet] works?  Especially, how it uses [specific feature] to accomplish [task]?
+ I’m struggling to understand the following block of [language] code: [code  snippet]. Could you break it down for me, especially the part where it  implements [algorithm or feature]?
+ Can you explain how this [language] code: [code snippet] accomplishes [task] and why it uses [specific method or feature]?

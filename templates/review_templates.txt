@@ -1,0 +1,34 @@
+ Can you identify any bugs in this [language] code snippet: [code snippet]?
+ Review the given [language] code for potential scalability issues: [code snippet].
+ Could you find potential issues in this [language] code: [code snippet]?
+ Review this [language] function for errors: [code snippet].
+ Can you find any performance issues in this [language] code: [code snippet]?
+ Are there any security vulnerabilities in this [language] code: [code snippet]?
+ Can you spot any potential problems with this [language] class definition: [code snippet]?
+ Can you analyze this [language] code: [code snippet] and point out potential errors?
+ Look over this [language] script: [code snippet]. Are there any bugs?
+ Please review this [language] code for style and best practices: [code snippet].
+ Do you see any memory leaks in this [language] code: [code snippet]?
+ Can you review this [language] function: [code snippet] and suggest areas for error handling?
+ I am concerned about security issues in this [language] code: [code snippet]. What are your thoughts?
+ Review the following [language] function: [code snippet] and provide suggestions for error handling and potential bottlenecks.
+ Help identify any potential security issues in the following [language]  code: [code snippet] related to [specific vulnerability].
+ Help me understand why this [language] function is not working as expected: [code snippet].
+ What are the potential issues with this [language] recursive function: [code snippet]?
+ Can you help me debug this error message from my [language] program: [error message]?
+ Find any potential issues in this [language] code that processes [data type]: [code snippet].
+ Can you spot the bug in this [language] function that handles [task]: [code snippet]?
+ What’s wrong with this [language] method for [task]: [code snippet]?
+ Could you review this [language] code that performs [task] and identify potential bugs or issues: [code snippet]?
+ Help me debug this [language] script that processes [data type] and suggest possible fixes: [code snippet].
+ Find the memory leaks in the following [language] code and suggest possible optimizations: [code snippet].
+ Please review this [language] code that is supposed to [task] given the inputs [input variables] and return [output]: [code snippet].
+ Find potential bugs in the [language] script that processes [data type] and outputs [output type]: [code snippet].
+ Identify the logic error in this [language] function intended to [task] with  these inputs: [input parameters] and expected output: [output  description].
+ Please review the following [language] code that  is supposed to [task] given the inputs [input variables], return  [output] and follows these coding guidelines: [coding guidelines]: [code snippet].
+ Identify and fix potential bugs in the [language]  script that processes [data type], uses these resources [resources  list], and outputs [output type]: [code snippet].
+ Find the  logic error in this [language] function that is intended to [task],  given these inputs: [input parameters], and expected to produce [output  description], but currently gives [incorrect output].
+ Debug the given [language] code: [code snippet]. It should perform [expected behavior], but it’s producing [current behavior].
+ Review the following [language] function named [function name]: [code  snippet]. Please identify any potential bugs, performance issues, and  non-compliance with [coding standard].
+ Debug the following  [language] code: [code snippet]. It’s expected to perform [expected  behavior] but instead, it’s producing [current behavior] when given  inputs: [input examples].
+ Please review the [language]  function: [code snippet] for any potential memory leaks or performance  issues when processing [data type] of size [data size].

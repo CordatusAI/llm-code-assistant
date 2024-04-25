@@ -1,0 +1,35 @@
+ Write a function in [language] to calculate the [mathematical concept].
+ Create a [language] function to [perform task].
+ Write a [language] program that [performs task] using [library or algorithm].
+ Write a [language] script that reads from [data source] and outputs to [data destination] 
+ Can you generate a [language] code that implements [data structure or algorithm]? 
+ Can you provide a [language] script to parse [file format]? 
+ Implement a [language] function to handle [task]. 
+ Create a [language] script to sort an array of [data type].
+ Write a [language] function to find the [n-th element] in a [data structure].
+ Implement a [language] program that reads [input] and writes [output] 
+ Show me how to write a [language] function that performs [specific task].
+ How do I create a class in [language] with these attributes: [attributes list]?
+ Write a [language] script to connect to a database and perform [database operation].
+ Provide a [language] code to perform file operations like [file operations list].
+ Create a [language] function that converts [data type A] into [data type B].
+ Write a [language] script that interacts with [database] and performs [operations].
+ Generate a [language] class to model a [real-world object] with these properties: [list of properties].
+ Create a [language] function to [perform task] with the following inputs: [input variables].
+ Write a [language] script to connect to [database] and execute [operation].
+ Can you generate a [language] class for [object] with these attributes: [list of attributes]?
+ Write a [language] script to process [data type] and achieve [task] with these requirements: [requirements list].
+ Develop a [language] function to perform [task] using [methodology or library] with the inputs: [input variables].
+ Can you help me code a [language] algorithm to solve [problem] given the constraints: [constraints list]?
+ Could you create a [language] function to [task], which takes in [input  variables] and returns [output], under these constraints [constraints  list]?
+ Write a [language] script to parse [file format],  extract [information], and store the data in [data structure] following  these requirements: [requirements list].
+ Write a [language]  function to calculate [mathematical concept] using [algorithm]. The  function should take these inputs: [input variables] and return  [expected output].
+ Develop a [language] program to read [file type], perform [operations] and write the results to [output format].
+ Create a [language] program that reads [input file type], performs  [operations], then writes the results to [output file type] following  the format: [format description].
+ Implement a [language] script that uses [API] to retrieve [data type] and store it in [database].
+ Write a [language] function named [function name] that performs [task]. The  function should accept these inputs: [input variables] and return  [expected output]. Also, handle the following edge cases: [edge case  description].
+ Implement a [language] script using [library/API] that retrieves [data type], performs [operation], and then stores it in [database] with a structure of [database schema].
+ Implement a  [language] algorithm for [task], given these input parameters [input  parameters], it should output [expected output] and consider these  constraints [constraints list].
+ Please write a [language]  function named [function name] to [task], which takes in [input  variables] and returns [output], under these constraints [constraints  list].
+ Create a [language] script to parse [file format],  extract [information], and store the data in [data structure] with the  following requirements: [requirements list].
+ Implement a  [language] algorithm for [task], given these input parameters [input  parameters], it should output [expected output] and consider these  constraints [constraints list].
