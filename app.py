@@ -68,7 +68,7 @@ with st.sidebar:
     st.subheader('Code Models')
     selected_pull_model = st.sidebar.selectbox('Pull a Model', code_llms , key='selected_pull_model') 
     if st.button('Pull Model') :
-         asyncio.run(pull(selected_pull_model))
+         asyncio.run(pull(selected_pull_model.strip()))
 
 
 st.subheader('Prompt')
