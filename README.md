@@ -91,5 +91,5 @@ $ docker run -ti \
         --gpus=all \
         --net=host \
         -v ~/ollama:/root/.ollama \
-        generative-ai-apps:local-llm-code-assistant
+        cordatus/generative-ai-apps:local-llm-code-assistant
 ```
