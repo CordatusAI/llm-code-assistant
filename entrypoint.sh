@@ -1,4 +1,4 @@
 #!/bin/bash
 
 ollama serve &
-streamlit run app.py
+streamlit run app.py --server.headless true
